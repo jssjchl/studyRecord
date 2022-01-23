@@ -1,1 +1,1 @@
-# studyRecord
+# 기록용
