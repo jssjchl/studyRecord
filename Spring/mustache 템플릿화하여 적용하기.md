@@ -130,4 +130,4 @@ ex
 
  실행 결과
 
-![mustache 실행](C:\Users\82102\Desktop\mustache 실행.png)
+![mustache 실행](mustache 실행.png)
