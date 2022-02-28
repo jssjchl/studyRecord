@@ -130,4 +130,4 @@ ex
 
  실행 결과
 
-![mustache 실행](Spring/image/mustache 실행.png)
+![mustache 실행](Spring/image/mustache img.png)
