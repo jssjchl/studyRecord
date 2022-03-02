@@ -129,5 +129,5 @@ ex
 ```
 
  실행 결과
+![mustache img](https://user-images.githubusercontent.com/61726402/156018224-c0c2937f-6a93-445c-8b0f-edba9f3d91b7.png)
 
-![mustache 실행](/image/mustache img.png)
